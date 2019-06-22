@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\iluja\documents\visual studio 2015\projects\sberbank\sberbank\RN.h(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\iluja\documents\visual studio 2015\projects\sberbank\sberbank\RN_Ksi.h(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\iluja\documents\visual studio 2015\projects\sberbank\sberbank\MyForm.h(867): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  SBERBANK.vcxproj -> C:\Users\Iluja\documents\visual studio 2015\Projects\SBERBANK\Debug\SBERBANK.exe
+  SBERBANK.vcxproj -> C:\Users\Iluja\documents\visual studio 2015\Projects\SBERBANK\Debug\SBERBANK.pdb (Partial PDB)

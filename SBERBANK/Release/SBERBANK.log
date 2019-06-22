@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\iluja\documents\visual studio 2015\projects\sberbank\sberbank\RN.h(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\iluja\documents\visual studio 2015\projects\sberbank\sberbank\RN_Ksi.h(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\iluja\documents\visual studio 2015\projects\sberbank\sberbank\MyForm.h(855): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SBERBANK.vcxproj -> C:\Users\Iluja\documents\visual studio 2015\Projects\SBERBANK\Release\SBERBANK.exe
+  SBERBANK.vcxproj -> C:\Users\Iluja\documents\visual studio 2015\Projects\SBERBANK\Release\SBERBANK.pdb (Full PDB)
